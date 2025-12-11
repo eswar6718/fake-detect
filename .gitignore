@@ -15,10 +15,7 @@ build/
 # Vercel
 .vercel/
 
-# Big model files (Render can handle them)
-*.pkl
-*.sav
-*.joblib
+
 
 # OS files
 .DS_Store
